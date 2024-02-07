@@ -1,0 +1,21 @@
+body{
+    background-color: #973ab7;
+}
+h1{
+    font-size: xx-large;
+    border: 100px;
+    border-radius: 50px;
+}
+
+body{
+    font-family:"lato" ;
+    background-color: burlywood;
+    font-size: large;
+}
+ul{
+    border: white;
+    border-radius: 30px;
+}
+ol{
+    display: inline-block;
+}
